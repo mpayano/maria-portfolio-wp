@@ -1,0 +1,12 @@
+$primary-color: blue; 
+section {
+    color: $primary-color;
+    background-color: white;
+    height: auto;
+    width: 100%;
+}
+
+.banner img { 
+    max-width: 300px;
+    height:auto;
+}
